@@ -13,7 +13,6 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 ROBOTS = "index, follow"
-OUTPUT_PATH = "blog/"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -50,6 +49,7 @@ HOME_HIDE_TAGS = True
 SOCIAL = (
     ("github", "https://github.com/alexandrevicenzi/Flex"),
     ("rss", "/blog/feeds/all.atom.xml"),
+    ("linkedin","https://www.linkedin.com/in/alessio-quaresima-8a0024200/"),
     ("debris", "https://www.inventati.org/debris/"),
 )
 
