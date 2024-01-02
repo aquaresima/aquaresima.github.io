@@ -29,11 +29,11 @@ LINKS = (
     ("debris", "https://www.inventati.org/debris/"),
 )
 # Social widget
-SOCIAL = (
-    ('gitorious', 'https://gitorious.org/~hook'),
-    ('github', 'https://github.com/silverhook'),
-    ('friendica', 'https://friendica.free-beer.ch/profile/hook'),
-)
+# SOCIAL = (
+#     ('gitorious', 'https://gitorious.org/~hook'),
+#     ('github', 'https://github.com/silverhook'),
+#     ('friendica', 'https://friendica.free-beer.ch/profile/hook'),
+# )
 
 MAIN_MENU = False
 
