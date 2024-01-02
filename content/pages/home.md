@@ -4,4 +4,6 @@ URL:
 save_as: index.html
 
 
-New personal blog: 01-01-2024
+###  01-01-2024 New personal blog!
+
+News will follow
