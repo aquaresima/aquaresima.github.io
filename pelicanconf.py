@@ -24,6 +24,7 @@ AUTHOR_FEED_RSS = None
 
 PAGE_ORDER_BY = 'page_order'
 
+
 # Blogroll
 LINKS = (
     ("debris", "https://www.inventati.org/debris/"),
