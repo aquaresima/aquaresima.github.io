@@ -27,7 +27,6 @@ PAGE_ORDER_BY = 'page_order'
 
 # Blogroll
 LINKS = (
-    ("debris", "https://www.inventati.org/debris/"),
 )
 # Social widget
 # SOCIAL = (
@@ -51,6 +50,7 @@ HOME_HIDE_TAGS = True
 SOCIAL = (
     ("github", "https://github.com/alexandrevicenzi/Flex"),
     ("rss", "/blog/feeds/all.atom.xml"),
+    ("debris", "https://www.inventati.org/debris/"),
 )
 
 CC_LICENSE = {
@@ -71,10 +71,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+
 
 DEFAULT_PAGINATION = 10
 
