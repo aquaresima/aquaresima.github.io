@@ -53,10 +53,12 @@ HOME_HIDE_TAGS = True
 # GITHUB_CORNER_URL = "https://github.com/alexandrevicenzi/Flex"
 
 SOCIAL = (
-    ("github", "https://github.com/alexandrevicenzi/Flex"),
-    ("rss", "/blog/feeds/all.atom.xml"),
+    ("github", "https://github.com/aquaresima"),
+    # ("rss", "/blog/feeds/all.atom.xml"),
     ("linkedin","https://www.linkedin.com/in/alessio-quaresima-8a0024200/"),
-    ("debris", "https://www.inventati.org/debris/"),
+    ("twitter", "https://twitter.com/quaresima_ale"),
+    ("mastodon", "https://mastodon.world/@alessioquaresima")
+    # ("debris", "https://www.inventati.org/debris/"),
 )
 
 CC_LICENSE = {
