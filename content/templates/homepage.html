@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<img title="WIP" alt="Work in progress" src="/images/wip.png" border="10">
+<ol id="posts-list" class="hfeed">
+{% for article in articles | selectattr('category', '==', 'blog') %}
+    <article class="hentry">
+    <header>
+      <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }}</a></h2>
+      <p>
+        {{ _('Posted on %(when)s',
+             when=article.locale_date,
+             category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe) }}
+  
+        {% if article.tags and not HOME_HIDE_TAGS %}
+            &#8226; {{ _('Tagged with') }}
+            {% for tag in article.tags %}
+                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
+            {% endfor %}
+        {% endif %}
+  
+        {% if PLUGINS and 'post_stats' in PLUGINS %}
+          &#8226; {{ _('%(minutes)s min read', minutes=article.stats['read_mins']) }}
+        {% endif %}
+      </p>
+    </header>
+        <div class="entry-content">
+        {{ article.summary }}
+        <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
+        </div><!-- /.entry-content -->
+    </article>
+{% endfor %}
+</ol>
+{% endblock content %}
