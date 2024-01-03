@@ -14,4 +14,4 @@ save_as: index.html
 
 - __14/02/2023__: Opening of [Bioma Lab](https://www.biomalab.nl) at Neus
 
-- __20/10/2022__: Interview for the [IMPRS about Ph.D. carreer](https://www.mpi.nl/alessio)
+- __20/10/2022__: Interview for the Radboud IMPRS about [doing Ph.D.](https://www.mpi.nl/alessio)
