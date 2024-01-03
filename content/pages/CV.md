@@ -43,18 +43,21 @@ __Bachelor of Physics__ <br> _Università Sapienza_
 __Beginner:__
 
 - Javascript, R, HTML
+- Blender, TouchDesigner
 
 __Intermediate:__ 
 
 - Machine Learning and ANN
 - Audio processing and encoding
 - C++, Java, Microsoft Windows
+- Resolume Arena (videomapping)
 
 __Expert:__
 
 - Numerical Integration
 - Data Analysis and Visualization
 - Julia, Python, Unix, LaTeX
+- Affinity Designer, Code VS, git
 
 
 ## Skills
