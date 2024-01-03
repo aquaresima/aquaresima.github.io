@@ -1,6 +1,10 @@
 AUTHOR = 'Alessio'
 SITENAME = 'Alessio Quaresima'
 SITEURL = ""
+SITETITLE="Alessio Quaresima"
+SITESUBTITLE="personal blog"
+
+
 THEME = "Flex"
 BROWSER_COLOR = "#222222"
 PYGMENTS_STYLE = "monokai"
