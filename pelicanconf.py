@@ -79,12 +79,6 @@ EXTRA_PATH_METADATA = {
 # Social widget
 
 SITEURL = ''
-# OUTPUT_PATH = 'output/blog'
-# # PAGE_URL = '../{slug}.html'
-# # PAGE_SAVE_AS = '../{slug}.html'
-# DISPLAY_PAGES_ON_MENU = False
-# DISPLAY_CATEGORIES_ON_MENU = False
-# MENUITEMS =ARTICLE_EXCLUDES = ['templates']
 
 #! https://stackoverflow.com/questions/55363180/how-do-i-choose-a-category-page-to-be-the-home-page-for-a-pelican-site
 ARTICLE_EXCLUDES = ['templates']
