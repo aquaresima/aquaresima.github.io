@@ -1,9 +1,13 @@
 Title: About me
 page_order: 9
 
-<img title="Genazzano" alt="A picture of Genazzano" style="float: right;" width="200" src="/images/genazzano.jpg" border="50">
+Alessio Quaresima studied Physics at Sapienza University in Rome. 
+He achieved a bachelor's thesis on information theory applied to written text, and a master's thesis on dendritic outgrowth in constrained environments. 
 
-I am Alessio, I ve born in Rome and spent most of my early years in Genazzano, a small village next to Rome. I have a strong connection with Genazzano and I have a small apartment there where I can escape from the noise of the city.
+After the university, he enrolled as PhD candidate at the Max Planck Institute for Psycholinguistics in Nijmegen, working on the neurobiological foundations of word recognition. 
+
+He is active in scientific outreach and popularization. He is co-editor of the science blog Het Talige Brein, organizes events for the Nijmegen Science Café, and is part of the scientific staff at The Science Zone.
+
 
 <br>
 

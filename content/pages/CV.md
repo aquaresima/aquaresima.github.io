@@ -1,7 +1,7 @@
 Title: Curriculum Vitae
 page_order: 2
 
-## Active projects
+## Active Projects
 
 - Chair of [Bioma Lab](https://www.biomalab.nl) association for development of new materials and artistic imagineries.
 - Co-editor of [Het Talige Brein](https://www.hettaligebrein.nl) blog of the Neurobiology of Language department.
