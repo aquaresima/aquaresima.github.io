@@ -7,7 +7,7 @@ SITESUBTITLE="personal blog"
 
 THEME = "Flex"
 BROWSER_COLOR = "#222222"
-PYGMENTS_STYLE = "monokai"
+PYGMENTS_STYLE = "lovelace"
 FAVICON = SITEURL + '/images/favicon.ico'
 SITELOGO = SITEURL + "/images/profile.jpg"
 
@@ -24,6 +24,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+LOAD_CONTENT_CACHE = False
 
 PAGE_ORDER_BY = 'page_order'
 

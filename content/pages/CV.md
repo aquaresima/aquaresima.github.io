@@ -1,72 +1,74 @@
 Title: Curriculum Vitae
 page_order: 2
 
-## Active Projects
+## Active 
 
-- Chair of [Bioma Lab](https://www.biomalab.nl) association for development of new materials and artistic imagineries.
-- Co-editor of [Het Talige Brein](https://www.hettaligebrein.nl) blog of the Neurobiology of Language department.
-- Member of [The Science Zone](https://thesciencezoneblog.wordpress.com), association for scientific education and outreach.
+- _Institut de l’Audition, Paris_ <br> __Ingénieur de recherche at Bathellier Lab__ <br> Examining the neuronal mechanisms of auditory short-term memories with simulations of biophysical models and analysis of brain activity in animal models. 
+
+- _Nijmegen, the Netherlands_ <br> __Chair of [Bioma Lab](https://www.biomalab.nl)__ <br> Association for development of new materials and artistic imagineries.
+
+- _Rome, Italy_ <br> __Member of [The Science Zone](https://thesciencezoneblog.wordpress.com)__ <br> Association for scientific education and outreach.
 
 ## Research and Teaching Experience
 
-_Max Planck Institute for Psycholinguistics, Nijmegen_<br>
-__PostDoc position at NBL Department__ <br>
-After the conclusion of my Ph.D. dissertation, I continued working on the spiking neural network
-simulator developed for the project. The goal is to have a flexible tool
-for neurobiologically detailed simulations.
+_Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen_ <br>
+__Ph.D. in Neurobiology of Language__ <br>
+_2019 - 2024_ <br>
+My research examined a biophysical model of word recognition during speech. I investigated the role of cellular level processes in learning and recalling word memories. The work combines insights from computational neuroscience with experimental evidence in word recognition. The result of my study is a mechanistic hypothesis concerning the link between human neurobiology and the human capacity to process complex sequences of sounds.
 
-_Max Planck Institute for Psycholinguistics, Nijmegen_<br>
-__Ph.D. Candidate__<br>
- I achieved my Ph.D. degree in Psychology of Language. Part of the work involved developing a Julia library for integrating and analyzing simulations of spiking neural networks with dendrites. I also gained experience in presenting my work to large audiences.
+_Max Planck Institute for Psycholinguistics, Nijmegen_<br> 
+__Editor of [Het Talige Brein](https://www.hettaligebrein.nl)__ <br>
+_2020 - 2024_ <br>
+I co-edited the scientific outreach blog of the Neurobiology of Language department.
 
-_Max Planck Institute for Psycholinguistics, Nijmegen_ <br>
-__Thesis supervision__ <br> 
-During my Ph.D. I co-supervised several bachelor theses on the encoding of acoustic information in spiking neural networks.
+_Radboud University, Nijmegen_ <br>
+__Student Supervision__ <br> 
+_2020 - 2023_ <br>
+Co-supervision of Bachelor, Reasearch Assistants, and Master students on neurobiological models of auditory processing in spiking neural networks.
 
 _The Science Zone -- Elementary schools, Rome_ <br>
-__Teacher in elementary schools__ <br>
- I was an active member of a science
-outreach association that used the Inquiry-Based Scientific Education
-method to teach young students Physics, Chemistry, and Biology.
+__ Science teacher in Elementary Schools__ <br>
+_2017 - 2019_ <br>
+Co-supervision of Bachelor and Master theses on neurobiological models of auditory processing in spiking neural networks.
+Active member of a science outreach association that leverages the Inquiry-Based Scientific Education (IBSE) method for teaching STEM to young students.
 
 ## Education
 
 __Doctor of Philosophy Psycholinguistics__ <br>
-_Max Planck Insititute for Psycholinguistics, Radboud University_
+_Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen, the Netherlands_
 
-__Master of Physics__ <br> _Theoretical Physics, Università Sapienza_
+__Master of Physics__ <br> _Theoretical Physics, Università Sapienza, Rome, Italy_
 
-__Bachelor of Physics__ <br> _Università Sapienza_
+__Bachelor of Physics__ <br> _Università Sapienza, Rome, Italy_
 
 ## Computer Skills
+
+__Expert:__
+
+- Numerical Integration
+- Data Analysis and Visualization
+- Parallel computation
+- Julia, Python, Unix, LaTeX
+- Affinity Designer, Code VS, git
+
+__Intermediate:__ 
+
+- Machine Learning and Deep Learning libraries
+- Audio processing and encoding
+- C++, Java, Microsoft Windows
 
 __Beginner:__
 
 - Javascript, R, HTML
 - Blender, TouchDesigner
 
-__Intermediate:__ 
-
-- Machine Learning and ANN
-- Audio processing and encoding
-- C++, Java, Microsoft Windows
-- Resolume Arena (videomapping)
-
-__Expert:__
-
-- Numerical Integration
-- Data Analysis and Visualization
-- Julia, Python, Unix, LaTeX
-- Affinity Designer, Code VS, git
-
-
 ## Skills
 
 __Analytical thinking__
-I have intuition in processing and breaking down complex information. I look for cause-and-effect relationships and make connections between multiple factors in scientific and real-world problems. 
+Strong intuition in processing and breaking down complex information. I look for cause-and-effect relationships and make connections between multiple factors in scientific and real-world problems. 
 
-__Technical dexterity__
-In my scientific and personal experience, I have used several pieces of experimental equipment, especially optical ones such as telescopes, lasers, lenses, and cameras. I am familiar with computers, programmable chipsets, and electronic platforms. 
+__Technical skills__
+Acquaintance with experimental equipment, especially optical ones such as telescopes, lasers, lenses, and cameras. I am familiar with computers, programmable chipsets, and electronic platforms. 
 
 __Open science and outreach__
 I am interested in science communication and fostering the impact of scientific research on society. I have a strong commitment to reproducibility and open science.
