@@ -2,7 +2,7 @@ AUTHOR = 'Alessio'
 SITENAME = 'Alessio Quaresima'
 SITEURL = ""
 SITETITLE="Alessio Quaresima"
-SITESUBTITLE="personal blog"
+SITESUBTITLE=""
 
 
 THEME = "Flex"
