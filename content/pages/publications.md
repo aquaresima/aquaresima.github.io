@@ -12,6 +12,10 @@ memories through Hebbian plasticity. [_bioRxiv 2023.09.26.559322_](https://doi.o
 reduction of the dendritic tree. _The Journal of Physiology_, 601(15),
 3007-3437. [doi:10.1113/JP283399](https://doi.org/doi:10.1113/JP283399).
 
+## Workshop
+
+
+
 ## Presentations
 
 **Quaresima, A.**

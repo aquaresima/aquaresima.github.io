@@ -3,7 +3,7 @@ page_order: 2
 
 ## Active 
 
-- _Institut de l’Audition, Paris_ <br> __Postdoc at Bathellier Lab__ <br> Examining the neuronal mechanisms of auditory short-term memories with simulations of biophysical models and analysis of brain activity in animal models
+- _Institut de l’Audition, Paris, France_ <br> __Postdoc researcher [Auditory System Dynamics and Multisensorial Processing Lab](https://sites.google.com/bathellier-lab.org/bathellier-lab/home)__ <br> We examine the neuronal mechanisms of auditory short-term memories with simulations of biophysical models and data analysis of brain activity.
 
 - _Nijmegen, the Netherlands_ <br> __Chair of [Bioma Lab](https://www.biomalab.nl)__ <br> Association for development of new materials and artistic imagineries
 
@@ -17,17 +17,16 @@ _2019 - 2024_ <br>
 My research examined a biophysical model of word recognition during speech. I investigated the role of cellular level processes in learning and recalling word memories. The work combines insights from computational neuroscience with experimental evidence in word recognition. The result of my study is a mechanistic hypothesis concerning the link between human neurobiology and the human capacity to process complex sequences of sounds.
 
 _Radboud University, Nijmegen_ <br>
-__Supervision__ <br> 
+__Student Supervision__ <br> 
 _2020 - 2023_ <br>
 Co-supervision of Bachelor and Master theses on neurobiological models of auditory processing.
 
-_The Science Zone -- Elementary schools, Rome_ <br>
-__Science teacher in Elementary Schools__ <br>
+_Elementary and High schools, Rome_ <br>
+__IBSE Science teacher__ <br>
 _2017 - 2019_ <br>
-Co-supervision of Bachelor and Master theses on neurobiological models of auditory processing in spiking neural networks.
-Active member of a science outreach association that leverages the Inquiry-Based Scientific Education (IBSE) method for teaching STEM to young students.
+As member of The Science Zone, I participated to two Boosting Science projects from the European Union. The project was to expand the standard science education curriculum, adopting the Inquiry-Based Scientific Education (IBSE) method for teaching STEM to young students.
 
-## Education
+## University Education
 
 __Doctor of Philosophy Psycholinguistics__ <br>
 _Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen, the Netherlands_
@@ -35,6 +34,8 @@ _Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen, the 
 __Master of Physics__ <br> _Theoretical Physics, Università Sapienza, Rome, Italy_
 
 __Bachelor of Physics__ <br> _Università Sapienza, Rome, Italy_
+
+## Additional schools
 
 ## Computer Skills
 

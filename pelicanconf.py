@@ -1,7 +1,7 @@
 AUTHOR = 'Alessio'
 SITENAME = 'Alessio Quaresima'
 SITEURL = ""
-SITETITLE="Alessio Quaresima"
+SITETITLE= "Alessio Quaresima"
 SITESUBTITLE=""
 
 
@@ -14,7 +14,6 @@ SITELOGO = SITEURL + "/images/profile.jpg"
 PATH = "content"
 
 TIMEZONE = 'Europe/Rome'
-
 DEFAULT_LANG = 'en'
 ROBOTS = "index, follow"
 
