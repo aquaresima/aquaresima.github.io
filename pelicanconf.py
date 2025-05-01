@@ -9,7 +9,7 @@ THEME = "Flex"
 BROWSER_COLOR = "#222222"
 PYGMENTS_STYLE = "lovelace"
 FAVICON = SITEURL + '/images/favicon.ico'
-SITELOGO = SITEURL + "/images/profile.jpg"
+SITELOGO = SITEURL + "/images/science_profile_retouched.png"
 
 PATH = "content"
 
@@ -32,7 +32,7 @@ PAGE_ORDER_BY = 'page_order'
 LINKS = (
     # ('blog', '/pages/blog.html'),
     ('debris', 'https://www.inventati.org/debris/'),
-    ('JuliaSNN', 'https://github.com/JuliaSNN'),
+    ('Julia Spiking Neural Networks', 'https://github.com/JuliaSNN'),
 )
 # Social widget
 # SOCIAL = (
