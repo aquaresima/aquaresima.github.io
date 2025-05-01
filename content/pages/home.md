@@ -3,6 +3,7 @@ Date: 2020-01-01
 Modified: 2023-12-23
 page_order: 1
 save_as: index.html
+URL:..
 
 My research focuses on unraveling the physiological basis of spoken language comprehension. My goal is to offer mechanistic insights into neuronal computation supporting the early phases of speech perception leveraging detailed biophysical models. 
 
