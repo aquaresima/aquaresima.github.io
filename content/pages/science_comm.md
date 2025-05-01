@@ -1,9 +1,9 @@
 Title: Science Communication
 page_order: 4
 
-I am dedicated to make science accessible and fun to non-specialists. I pursue this goal in both conventional and non conventional settings. My main scientific interests are in Neuroscience and Astronomy. 
+I am dedicated to make science accessible and fun to non-specialists. I pursue this goal in both conventional and non conventional settings. My main scientific interests are in neuroscience, ecology and astronomy. 
 
-I have broad experience in organizing and presenting scientific events to the general public. Also, I have experince as editor and writer fr science outreach outlets. 
+I have broad experience in organizing and presenting scientific events to the general public. I have also experience as editor and writer for science outreach outlets. 
  
 ## Writer and editor
 

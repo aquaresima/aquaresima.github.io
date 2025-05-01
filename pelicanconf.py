@@ -30,8 +30,9 @@ PAGE_ORDER_BY = 'page_order'
 
 # Blogroll
 LINKS = (
-    ('blog', '/pages/blog.html'),
+    # ('blog', '/pages/blog.html'),
     ('debris', 'https://www.inventati.org/debris/'),
+    ('JuliaSNN', 'https://github.com/JuliaSNN'),
 )
 # Social widget
 # SOCIAL = (
@@ -54,10 +55,8 @@ HOME_HIDE_TAGS = True
 
 SOCIAL = (
     ("github", "https://github.com/aquaresima"),
-    # ("rss", "/blog/feeds/all.atom.xml"),
     ("linkedin","https://www.linkedin.com/in/alessio-quaresima-8a0024200/"),
     ("twitter", "https://bsky.app/profile/bluedebris.bsky.social"),
-    # ("debris", "https://www.inventati.org/debris/"),
 )
 
 CC_LICENSE = {
@@ -82,9 +81,9 @@ EXTRA_PATH_METADATA = {
 SITEURL = ''
 
 #! https://stackoverflow.com/questions/55363180/how-do-i-choose-a-category-page-to-be-the-home-page-for-a-pelican-site
-ARTICLE_EXCLUDES = ['templates']
+ARTICLE_EXCLUDES = ['templates', 'articles']
 TEMPLATE_PAGES = {
-    'templates/homepage.html': 'pages/blog.html',
+    # 'templates/homepage.html': 'pages/blog.html',
     # 'templates/homepage.html': 'index.html',
 } 
 

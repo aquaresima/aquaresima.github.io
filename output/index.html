@@ -121,10 +121,10 @@
             </li>
 
           <li>
-            <a target="_self" href="/pages/blog.html" >blog</a>
+            <a target="_self" href="https://www.inventati.org/debris/" >debris</a>
           </li>
           <li>
-            <a target="_self" href="https://www.inventati.org/debris/" >debris</a>
+            <a target="_self" href="https://github.com/JuliaSNN" >JuliaSNN</a>
           </li>
       </ul>
     </nav>
@@ -164,27 +164,27 @@
     <h1 id="research-projects">Research Projects</h1>
   </header>
   <div>
-<p>My research focuses on unraveling the physiological basis of spoken language comprehension. My goal is to offer mechanistic insights into neuronal computation supporting the early phases of speech perception leveraging detailed biophysical models. </p>
-<h3>Neuronal and network mechanisms of Auditory Working Memory</h3>
-<p>Computational and experimental studies indicate that auditory working memory lies in the physiological properties of single-cells and the connectivity of cortical networks. However, how these mechanisms for memory interact during the encoding, maintaining, and retrieving of cued memories remains largely unknown. 
-The project aims to establish the role of cellular- and network-level processes in maintaining short-term memories. The investigation is carried out studying a biophysical network model and comparing it with <a href="https://doi.org/10.1016/j.neuron.2019.09.043">calcium imaging recordings at single-cell resolution</a>. </p>
-<h3>Dendritic memory and hetero-associative memories</h3>
-<p>I recently issued a research paper on the capacity of biological networks to detect sequences of brief, transitory stimuli (<a href="https://www.biorxiv.org/content/10.1101/2023.09.26.559322v2.full.pdf+html">Dendrites support formation and reactivation of sequential memories through Hebbian plasticity 2023</a>). 
-The computational study demonstrates the formation of hetero-associative memories, in the form of asymmetric synaptic engrams, between low-level (phonemes) and high-level (word) cell assemblies. The synaptic structure is necessary and sufficient for the word assemblies to activate upon the presentation of the correct sequence of phonemes.</p>
-<h3>Self-organizations in networks with dendrites</h3>
-<p>The previous study did not clarify the plasticity mechanisms that foster the formation of hetero-associative memories. Even more, it remains unclear how the dendrites contribute to it. 
-I am interested in testing recent biologically-plausible plasticity rules to evaluate which are the computational requirements for the formation of sequence-detection networks.</p>
-<!-- The dendritic network investigated tends to self-organize in   -->
-<!-- % Seminal work investigated the spontaneous activity of networks with balanced excitatory and inhibitory neurons~\citep{vreeswijkChaoticBalancedState1998,brunelDynamicsSparselyConnected2000} revealing the presence of a regime of low firing rate and low synchrony when the connections are sufficiently diluted.  -->
-
-<!-- ### Context-dependent integration of feedforward stimuli in spiking and rate networks -->
-
-<h3>Performant Spiking Neural Network simulator in Julia</h3>
-<!-- ### Efficient encoding of acoustic stimuli in spiking neural networks -->
-
-<!-- ### Representations emerging in speech-recognition neural network models -->
-
-<p>I believe that computational research is well suited for researcher with limited access to experimental facilities. Please feel free to contact me if your are interested in collaborating on one of the </p>  </div>
+<p>My research focuses on unraveling the physiological basis of spoken language comprehension. My goal is to offer mechanistic insights into the neuronal computation supporting the early phases of speech perception, leveraging detailed biophysical models.</p>
+<p>I believe that computational research is well suited for researchers with limited access to experimental facilities. Please contact me if you are interested in collaborating on one of the following projects:</p>
+<h3>Neuronal and Network Mechanisms of Auditory Working Memory</h3>
+<p>Computational and experimental studies indicate that auditory working memory lies in the coordination of cortical network dynamics and single-cell physiological properties. However, how these mechanisms for memory interact during the encoding, maintaining, and retrieving of cued memories remains largely unknown.
+The project, supported by the Pasteur-Roux-Cantarini fellowship, aims to establish the role of cellular- and network-level processes in maintaining short-term memories. The investigation is carried out by studying <a href="https://juliasnn.github.io/SpikingNeuralNetworks.jl">biophysical network models</a> and comparing it with <a href="https://doi.org/10.1016/j.neuron.2019.09.043">calcium and voltage imaging recordings</a>.</p>
+<h3>Spectrotemporal Transformations in the Auditory Cortex</h3>
+<p>In mice, the auditory cortex is necessary to process complex sound patterns and transform subcortical temporal codes into flexible <a href="https://www.science.org/doi/10.1126/sciadv.adr6214">cortical population codes</a>. The challenge for the auditory cortex is to integrate information over time to activate the correct neuronal representations. Previous work has shown <a href="https://elifesciences.org/articles/53151">the network properties that support this computation</a>. I am currently investigating how these network structures form and evolve under biophysical plasticity rules and physiological constraints.</p>
+<h3>Performant Spiking Neural Network Simulator in Julia</h3>
+<p><a href="https://juliasnn.github.io/SpikingNeuralNetworks.jl">JuliaSNN</a> is a library for simulation of biophysical network models. The library offers:
+i. Modular, flexible, and quick instantiation of complex biophysical models;
+ii. Rich model library and easy implementation of custom new models;
+iii. High performance and native multi-threading support, laptop and cluster-friendly;
+iv. Easy access to models' variables and parameters and save-load-rerun of arbitrarily complex networks.
+SpikingNeuralNetworks.jl is defined within the JuliaSNN ecosystem, which offers SNNPlots to plot models' recordings and SNNUtils for further stimulation protocols and analysis.</p>
+<h3>Dendritic Integration and Hetero-Associative Memories</h3>
+<p>In a recent work, we showed the capacity of biological networks to detect sequences of brief, transitory stimuli thanks to cellular properties (<a href="https://www.biorxiv.org/content/10.1101/2023.09.26.559322v2.full.pdf+html">Dendrites support formation and reactivation of sequential memories through Hebbian plasticity 2023</a>). The computational study demonstrates the formation of hetero-associative memories, in the form of asymmetric synaptic engrams, between low-level and high-level cell assemblies. The synaptic structure is necessary and sufficient for the word assemblies to activate upon the presentation of the correct sequence of low-level features.</p>
+<h3>Dendrites Support Temporal Computations and Account for Physiological States</h3>
+<p>My Ph.D. research focused on the dynamics of neuronal models that include reduced dendritic compartments.
+We have shown that such models:  <br>
+i. <a href="https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283399">Have richer computational capacities</a>, among which the ability to carry a trace of the inputs' temporal structure over hundreds of milliseconds.<br>
+ii. Exhibit membrane bistability in response to small fluctuations in the input, coordinating <a href="https://www.biorxiv.org/content/10.1101/2024.09.05.611249v3">network and cellular levels Up-Down states</a></p>  </div>
 </article>
 
 <footer>
