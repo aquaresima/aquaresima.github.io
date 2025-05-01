@@ -1,22 +1,38 @@
-Title: News
-page_order: 0
-URL:..
+Title: Research Projects 
+Date: 2020-01-01
+Modified: 2023-12-23
+page_order: 1
 save_as: index.html
 
-- __12/07/2024__: Received my Ph.D. at the Radboud University with a thesis titled: <br> _A Bridge not too far: Neurobiological causal models of word recognition_ ! 
+My research focuses on unraveling the physiological basis of spoken language comprehension. My goal is to offer mechanistic insights into neuronal computation supporting the early phases of speech perception leveraging detailed biophysical models. 
 
-- __24/05/2024__: Invited seminar at the Freie Universitat in Berlin to discuss of neurobiological models of word memories at Pulvermuller's lab!
 
-- __1/02/2024__: Started my post-doc [Brice Bathellier's lab](https://research.pasteur.fr/fr/team/auditory-system-dynamics-and-multisensory-processing/) in the Hearing Institute, Paris!
 
-- __7/11/2023__: Talk presented a the Spiking Neural Networks as Universal Approximators conference ([here!](https://www.youtube.com/watch?v=xb7I_q2x6rU))
+### Neuronal and network mechanisms of Auditory Working Memory
+Computational and experimental studies indicate that auditory working memory lies in the physiological properties of single-cells and the connectivity of cortical networks. However, how these mechanisms for memory interact during the encoding, maintaining, and retrieving of cued memories remains largely unknown. 
+The project aims to establish the role of cellular- and network-level processes in maintaining short-term memories. The investigation is carried out studying a biophysical network model and comparing it with [calcium imaging recordings at single-cell resolution](https://doi.org/10.1016/j.neuron.2019.09.043). 
 
-- __1/11/2023__: Started new PostDoc position at the Neurobiology of Language department
 
-- __24/03/2023__: Presentation at the InScience festival about simulations of the brain. [A written version of it!](https://taalenhersenen.wordpress.com/2023/11/06/the-simulated-language-of-the-brain-thought-experiments-in-silico/)
+### Dendritic memory and hetero-associative memories
+I recently issued a research paper on the capacity of biological networks to detect sequences of brief, transitory stimuli ([Dendrites support formation and reactivation of sequential memories through Hebbian plasticity 2023](https://www.biorxiv.org/content/10.1101/2023.09.26.559322v2.full.pdf+html)). 
+The computational study demonstrates the formation of hetero-associative memories, in the form of asymmetric synaptic engrams, between low-level (phonemes) and high-level (word) cell assemblies. The synaptic structure is necessary and sufficient for the word assemblies to activate upon the presentation of the correct sequence of phonemes.
 
-<!-- - __15/03/2023__: I will join  at the Institute de l'Audition starting from Februrary 2024!  -->
+### Self-organizations in networks with dendrites 
+The previous study did not clarify the plasticity mechanisms that foster the formation of hetero-associative memories. Even more, it remains unclear how the dendrites contribute to it. 
+I am interested in testing recent biologically-plausible plasticity rules to evaluate which are the computational requirements for the formation of sequence-detection networks.
+<!-- The dendritic network investigated tends to self-organize in   -->
+<!-- % Seminal work investigated the spontaneous activity of networks with balanced excitatory and inhibitory neurons~\citep{vreeswijkChaoticBalancedState1998,brunelDynamicsSparselyConnected2000} revealing the presence of a regime of low firing rate and low synchrony when the connections are sufficiently diluted.  -->
 
-- __14/02/2023__: Opening of [Bioma Lab](https://www.biomalab.nl) at Neus
 
-- __20/10/2022__: Interview for the Radboud IMPRS about [critical thinking in Research](https://www.mpi.nl/alessio)
+<!-- ### Context-dependent integration of feedforward stimuli in spiking and rate networks -->
+
+### Performant Spiking Neural Network simulator in Julia
+
+<!-- ### Efficient encoding of acoustic stimuli in spiking neural networks -->
+
+<!-- ### Representations emerging in speech-recognition neural network models -->
+
+
+
+I believe that computational research is well suited for researcher with limited access to experimental facilities. Please feel free to contact me if your are interested in collaborating on one of the 
+

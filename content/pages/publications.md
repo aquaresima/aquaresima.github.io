@@ -1,19 +1,28 @@
 Title: Publications 
 page_order: 3
 
-**Quaresima, A.**. (2024). A Bridge Not Too Far: Neurobiological causal models of word recognition. _Radboud University, Nijmegen_ [ISBN: 978-94-92910-61-5](https://repository.ubn.ru.nl/handle/2066/307904)
+**Quaresima, A.**, Fitz, H., Hagoort, P., Duarte, R. (2025)
+Nonlinear dendritic integration supports Up-Down states in single neurons. _The Journal of Neuroscience_
 
-**Quaresima, A.**, Fitz, H., Duarte, R., Hagoort, P.,& Petersson, K. M.
-(2023). Dendrites support the formation and reactivation of sequential
-memories through Hebbian plasticity. [_bioRxiv 2023.09.26.559322_](https://doi.org/10.1101/2023.09.26.559322)
+**Quaresima, A.**, Fitz, H., Duarte, R., Hagoort, P.,& Petersson, K. M. (2023). 
+Dendrites support the formation and reactivation of sequential memories through Hebbian plasticity. [_bioRxiv 2023.09.26.559322_](https://doi.org/10.1101/2023.09.26.559322)
 
 **Quaresima, A.**, Fitz, H., Duarte, R., Van den Broek, D., Hagoort, P.,
 & Petersson, K. M. (2022). The Tripod neuron: A minimal structural
 reduction of the dendritic tree. _The Journal of Physiology_, 601(15),
 3007-3437. [doi:10.1113/JP283399](https://doi.org/doi:10.1113/JP283399).
 
-## Workshop
 
+**Quaresima, A.**. (2024). A Bridge Not Too Far: Neurobiological causal models of word recognition. _Radboud University, Nijmegen_ [ISBN: 978-94-92910-61-5](https://repository.ubn.ru.nl/handle/2066/307904). 
+
+
+## Workshops
+
+Simulating neural physiology & networks in Julia. 
+Phillips, W., Quaresima, A., & Chauhan, T., (2022). _JuliaCon2022_, 
+
+The neurobiological mechanisms of sequence processing.
+Quaresima, A., Vlachos, P. & Fitz, H., (2024). _Bernstein Conference 2024_, Frankfurt, Germany
 
 
 ## Presentations
@@ -56,6 +65,7 @@ recurrent spiking neural networks. _Bernstein Conference 2022, Berlin, Germany._
 K. M. (2020). A minimal reduction of dendritic structure and its
 functional implication for sequence processing in biological neurons.
 _Twelfth Annual (Virtual) Meeting of the Society for the Neurobiology of Language (SNL 2020)_
+
 **Quaresima, A.**, Duarte, R., & Fitz, H. (2019). Review of
 computational models of cortical microcircuits. *Poster presented at the
 Max Planck Neuro Symposium. Max Planck Institute of Neurobiology,

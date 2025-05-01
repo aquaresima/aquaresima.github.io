@@ -56,8 +56,7 @@ SOCIAL = (
     ("github", "https://github.com/aquaresima"),
     # ("rss", "/blog/feeds/all.atom.xml"),
     ("linkedin","https://www.linkedin.com/in/alessio-quaresima-8a0024200/"),
-    ("twitter", "https://twitter.com/quaresima_ale"),
-    ("mastodon", "https://mastodon.world/@alessioquaresima")
+    ("twitter", "https://bsky.app/profile/bluedebris.bsky.social"),
     # ("debris", "https://www.inventati.org/debris/"),
 )
 
