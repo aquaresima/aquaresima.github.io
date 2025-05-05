@@ -15,6 +15,13 @@ reduction of the dendritic tree. _The Journal of Physiology_, 601(15),
 
 **Quaresima, A.**. (2024). A Bridge Not Too Far: Neurobiological causal models of word recognition. _Radboud University, Nijmegen_ [ISBN: 978-94-92910-61-5](https://repository.ubn.ru.nl/handle/2066/307904). 
 
+## Software developed
+
+[Julia Spiking Neuronal Networks](https://github.com/JuliaSNN/SpikingNeuralNetworks.jl) is library for simulation of biophysical network models.
+
+[Development of Neurons in Spatial Environments - DeNSE](https://github.com/SENeC-Initiative/DeNSE) DeNSE provides a generic platform to investigate growth and network formations in 2D ensembles of neurons. 
+
+
 
 ## Workshops
 
