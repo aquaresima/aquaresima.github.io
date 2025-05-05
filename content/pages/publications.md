@@ -1,5 +1,5 @@
 Title: Publications 
-page_order: 2
+page_order: 3
 
 **Quaresima, A.**, Fitz, H., Hagoort, P., Duarte, R. (2025)
 Nonlinear dendritic integration supports Up-Down states in single neurons. _The Journal of Neuroscience_

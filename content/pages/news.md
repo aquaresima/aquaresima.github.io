@@ -1,5 +1,5 @@
 Title: News
-page_order: 2
+page_order: 5
 
 - __10/11/2024__: My application for the Pasteur-Roux-Cantarini fellowship has been accepted. I will be investigating Auditory Working Memory in mice in Bathellier's lab for the upcoming two years!   
 
