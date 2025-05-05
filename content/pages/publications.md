@@ -1,5 +1,5 @@
 Title: Publications 
-page_order: 3
+page_order: 2
 
 **Quaresima, A.**, Fitz, H., Hagoort, P., Duarte, R. (2025)
 Nonlinear dendritic integration supports Up-Down states in single neurons. _The Journal of Neuroscience_
@@ -20,7 +20,6 @@ reduction of the dendritic tree. _The Journal of Physiology_, 601(15),
 [Julia Spiking Neuronal Networks](https://github.com/JuliaSNN/SpikingNeuralNetworks.jl) is library for simulation of biophysical network models.
 
 [Development of Neurons in Spatial Environments - DeNSE](https://github.com/SENeC-Initiative/DeNSE) DeNSE provides a generic platform to investigate growth and network formations in 2D ensembles of neurons. 
-
 
 
 ## Workshops
