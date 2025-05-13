@@ -9,7 +9,7 @@ THEME = "Flex"
 BROWSER_COLOR = "#222222"
 PYGMENTS_STYLE = "lovelace"
 FAVICON = SITEURL + '/images/favicon.ico'
-SITELOGO = SITEURL + "/images/profile_blog.png"
+SITELOGO = SITEURL + "/images/profile_bw.png"
 
 PATH = "content"
 
