@@ -13,7 +13,7 @@ I have solid experience in organizing and presenting at scientific events to the
 
 __[Plastiril](../pages/plastiril.html)__ <br>A brief story of the plastic apocalypse.
 
-__[A beautifil computation](../pages/computation.html)__ <br>Quantum optimization made easy.
+__[A beautifil computation](../pages/a-beautiful-computation.html)__ <br>Quantum optimization made easy.
 
 __[Het Talige Brein blog](http://hettaligebrein.nl)__ <br>
 HTB is the official blog of the Neurobiology of Language department.
