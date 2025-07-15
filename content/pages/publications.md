@@ -2,7 +2,7 @@ Title: Publications
 page_order: 3
 
 **Quaresima, A.**, Fitz, H., Hagoort, P., Duarte, R. (2025)
-Nonlinear dendritic integration supports Up-Down states in single neurons. _The Journal of Neuroscience_
+Nonlinear dendritic integration supports Up-Down states in single neurons. _The Journal of Neuroscience  45 (26) e1701242025_ [10.1523/JNEUROSCI.1701-24.2025](https://www.jneurosci.org/content/45/26/e1701242025)
 
 **Quaresima, A.**, Fitz, H., Duarte, R., Hagoort, P.,& Petersson, K. M. (2023). 
 Dendrites support the formation and reactivation of sequential memories through Hebbian plasticity. [_bioRxiv 2023.09.26.559322_](https://doi.org/10.1101/2023.09.26.559322)
