@@ -32,7 +32,7 @@ PAGE_ORDER_BY = 'page_order'
 LINKS = (
     # ('blog', '/pages/blog.html'),
     ('debris', 'https://www.inventati.org/debris/'),
-    ('Julia Spiking Neural Networks', 'https://github.com/JuliaSNN'),
+    ('Julia Spiking Neural Networks', 'https://juliasnn.github.io/SpikingNeuralNetworks.jl/dev'),
 )
 # Social widget
 # SOCIAL = (

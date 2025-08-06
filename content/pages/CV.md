@@ -27,7 +27,7 @@ _Elementary and High schools, Rome_ <br>
 __IBSE Science teacher__ _2017 - 2019_ <br>
 School teacher in STEM with Inquiry-Based Scientific Education (IBSE) method.
 
-## University Education
+## Education and Schools
 
 __Doctor of Philosophy in Psycholinguistics__ <br>
 _Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen, the Netherlands_
@@ -35,6 +35,13 @@ _Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen, the 
 __Master of Physics__ <br> _Theoretical Physics, Università Sapienza, Rome, Italy_
 
 __Bachelor of Physics__ <br> _Università Sapienza, Rome, Italy_
+
+
+__School on Computational Climate Science__  _ClimateMatch_
+
+__Summer School on Neuron technology__  _SISSA, 
+
+__Summer School on simulation and modeling__ _SISSA, Trieste_
 
 
 ## Skills
