@@ -17,7 +17,7 @@ Here you find a Julia package I wrote durint the course. It allows us to visuali
 
 - Morris Lecar 
 
-- Any further 2D model can be added! 
+- Any 2D model can be added! 
 
 **Synapses**:
 
