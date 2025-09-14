@@ -5,7 +5,7 @@ page_order: 9
 
 I had the pleasure of teaching Computational Neuroscience in the BioMedical Engeneering Master in Paris Cité university.
 
-Here you find a Julia package I wrote durign the course to visualize the solutions of biophysical neuronal models while varying the model's parameters
+Here you find a Julia package I wrote durint the course. It allows us to visualize the solutions of the 2D biophysical neuron models, while interactively varying the model's parameters.
 
 ### [CompNeuro.jl](https://github.com/JuliaSNN/CompNeuro.jl)
 
@@ -16,6 +16,8 @@ Here you find a Julia package I wrote durign the course to visualize the solutio
 - FitzHugh Nagumo
 
 - Morris Lecar 
+
+- Any further 2D model can be added! 
 
 **Synapses**:
 
