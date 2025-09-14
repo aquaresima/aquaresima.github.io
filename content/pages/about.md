@@ -1,5 +1,5 @@
 Title: About me
-page_order: 9
+page_order: 10
 
 I was born in Rome and grew up in a charming medieval village nestled in the beautiful campagna romana. After finishing high school, I moved to Rome to study Physics at Sapienza University. During those years, I dived into mechanics while fixing bikes at the local Ciclo Officina di Fisica. I had the privilege of attending courses with renowned professors like G. Parisi, P. del Giudice, and V. Loreto, who sparked my interest in complexity, statistics, and neuroscience.
 
