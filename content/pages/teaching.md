@@ -26,7 +26,7 @@ Here you find a Julia package I wrote during the course. It shows the solutions 
 - Current synapses
 
 <video controls autoplay id="AdEx model" class="video-js vjs-default-skin"  {margin-left: -220px;}
-preload="auto" width="960" height="540" poster="https://raw.githubusercontent.com/JuliaSNN/CompNeuro.jl/refs/heads/main/assets/adex_example.png"
+preload="auto" width="600" height="800" poster="https://raw.githubusercontent.com/JuliaSNN/CompNeuro.jl/refs/heads/main/assets/adex_example.png"
 data-setup="{}">
 <source src="../images/adex.mp4" type='video/mp4'>
 </video>
