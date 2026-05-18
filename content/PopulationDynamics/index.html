@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dinamiche di Popolazione</title>
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$','$']] }, startup: { typeset: false } };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" defer></script>
+  <link rel="stylesheet" href="style/styles.css">
+  <script src="js/weighted_list.min.js"></script>
+  <script src="js/p5.min.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/dynamics.js"></script>
+</head>
+<body>
+
+  <nav class="lang-bar">
+    <button class="lang-tab active" data-lang="it">IT</button>
+    <button class="lang-tab"        data-lang="en">EN</button>
+    <button class="lang-tab"        data-lang="fr">FR</button>
+    <button id="theme-toggle" class="theme-btn" title="Toggle theme">☀</button>
+  </nav>
+
+  <div class="page-wrapper">
+
+    <header class="hero">
+      <p class="eyebrow">Automa Cellulare · Lotka–Volterra</p>
+      <h1 class="title" id="main_title">Dinamiche di <em>Popolazione</em></h1>
+      <p class="subtitle" id="main_subtitle"></p>
+    </header>
+
+    <div class="divider"><span class="divider-mark"></span></div>
+
+    <!-- intro -->
+    <div class="card intro-card" id="intro_text"></div>
+
+    <div class="divider"><span class="divider-mark"></span></div>
+
+    <!-- two control cards -->
+    <div class="controls-row">
+
+      <div class="card">
+        <span class="card-label" id="grp1_title">Valori iniziali</span>
+        <div class="slider-row">
+          <label id="lbl_r_fox">— <span class="val" id="val_r_fox"></span></label>
+          <input type="range" id="r_fox" min="0" max="100">
+        </div>
+        <div class="slider-row">
+          <label id="lbl_r_rabbit">— <span class="val" id="val_r_rabbit"></span></label>
+          <input type="range" id="r_rabbit" min="0" max="100">
+        </div>
+        <div class="slider-row">
+          <label id="lbl_speed">— <span class="val" id="val_speed"></span></label>
+          <input type="range" id="speed" min="0" max="100">
+        </div>
+        <div class="slider-row">
+          <label id="lbl_gridsize">— <span class="val" id="val_gridsize"></span></label>
+          <input type="range" id="gridsize" min="10" max="80" step="5">
+        </div>
+      </div>
+
+      <div class="card">
+        <span class="card-label" id="grp2_title">Tasso di riproduzione</span>
+        <div class="slider-row">
+          <label id="lbl2_r_fox">— <span class="val" id="val2_r_fox"></span></label>
+          <input type="range" id="r_fox_rate" min="0" max="100">
+        </div>
+        <div class="slider-row">
+          <label id="lbl2_r_rabbit">— <span class="val" id="val2_r_rabbit"></span></label>
+          <input type="range" id="r_rabbit_rate" min="0" max="100">
+        </div>
+        <div class="slider-row">
+          <label id="lbl2_r_grass">— <span class="val" id="val2_r_grass"></span></label>
+          <input type="range" id="r_grass" min="0" max="100">
+        </div>
+      </div>
+
+    </div>
+
+    <div class="action-row">
+      <button id="restart_button"><span id="restart_label">Ricomincia</span></button>
+    </div>
+
+    <div class="canvas-section">
+      <div class="simulation-box">
+        <div class="sim-header">
+          <span class="sim-label" id="sim_label">Simulazione in corso</span>
+          <span class="sim-dot"></span>
+        </div>
+        <div id="sketch_box"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,6 +1,8 @@
 Title: News
 page_order: 5
 
+- __2025__: New paper published in _The Journal of Neuroscience_: Nonlinear dendritic integration supports Up-Down states in single neurons. [10.1523/JNEUROSCI.1701-24.2025](https://www.jneurosci.org/content/45/26/e1701242025)
+
 - __10/11/2024__: My application for the Pasteur-Roux-Cantarini fellowship has been accepted. I will be investigating Auditory Working Memory in mice in Bathellier's lab for the upcoming two years!   
 
 - __12/07/2024__: Received my Ph.D. at the Radboud University with a thesis titled: <br> _A Bridge not too far: Neurobiological causal models of word recognition_!

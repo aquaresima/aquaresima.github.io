@@ -1,32 +1,35 @@
 Title: Teaching
-page_order: 9
+page_order: 7
 
-## Computational Neuroscience course
+I teach at the intersection of computational neuroscience, biophysics, and data analysis. My courses are built around a simple principle: students learn by building and debugging models, not by listening. Below are materials from courses and lectures I have given.
 
-I had the pleasure of teaching Computational Neuroscience in the BioMedical Engeneering Master in Paris Cité university.
+---
 
-Here you find a Julia package I wrote during the course. It shows the solutions of the 2D biophysical neuron models, while interactively varying the model's parameters.
+## Courses & Lectures
 
-### [CompNeuro.jl](https://github.com/JuliaSNN/CompNeuro.jl)
+### Advanced Neuroscience — Computational Track
+*NeuroTech track, Master in Biomedical Engineering, Paris Cité · September 2025*
 
-**Neuron Models:**
+An introductory module to computational neuroscience for M2 students with mixed backgrounds (biology, medicine, biotechnology). Students use the [JuliaSNN](https://juliasnn.github.io/SpikingNeuralNetworks.jl) library to simulate biophysical neuron models and reproduce results from research papers.
 
-- AdEx
+The course relies on [CompNeuro.jl](https://github.com/JuliaSNN/CompNeuro.jl), a Julia package developed for the course. It provides interactive phase-plane visualizations of 2D biophysical neuron models — AdEx, FitzHugh–Nagumo, Morris–Lecar — letting students explore how parameters shape excitability, bifurcations, and spiking dynamics in real time.
 
-- FitzHugh Nagumo
+[Slides (PDF)]({static}/files/ComputationalNeuroscience_course2025.pdf)
 
-- Morris Lecar 
+---
 
-- Any 2D model can be added! 
+### Dendrites — A Research Lecture
+*Donders Institute for Brain, Cognition and Behaviour · 2025*
 
-**Synapses**:
+A research seminar on dendritic computation: how the nonlinear integration of inputs in dendritic compartments shapes single-neuron dynamics and enables network-level sequence memory. Covers the Tripod neuron model and its application to spoken word recognition.
 
-- Conductance synapses
+[Slides (PDF)]({static}/files/ComputationalNeuroscienceDendrites2025.pdf)
 
-- Current synapses
+---
 
-<video controls autoplay id="AdEx model" class="video-js vjs-default-skin"  {margin-left: -220px;}
-preload="auto" width="600" height="800" poster="https://raw.githubusercontent.com/JuliaSNN/CompNeuro.jl/refs/heads/main/assets/adex_example.png"
-data-setup="{}">
-<source src="../images/adex.mp4" type='video/mp4'>
-</video>
+### Population Dynamics — Interactive Simulation
+*Science outreach · [The Science Zone](https://www.thesciencezone.org)*
+
+An interactive browser simulation of predator-prey dynamics (foxes, rabbits, grass) built with p5.js. Designed to let students explore how reproduction rates and initial population sizes shape the long-term dynamics of an ecosystem.
+
+[Open simulation](/PopulationDynamics/index.html)

@@ -5,9 +5,9 @@ page_order: 1
 save_as: index.html
 URL:..
 
-My research focuses on unraveling the physiological basis of auditory perception and spoken language comprehension. My goal is to offer mechanistic insights into the neuronal computation supporting the early phases of speech perception, leveraging detailed biophysical models.
+My research develops biophysically grounded models of cortical circuits to understand how neurons and networks implement computation. The work spans three interconnected themes: dendritic integration and nonlinear single-cell dynamics, synaptic plasticity and memory formation, and the functional specialization of cortical cell types — with a particular focus on auditory cortex and spoken language.
 
-I believe that computational research is well suited for researchers with limited access to experimental facilities. Please contact me if you are interested in collaborating on one of the following projects:
+All projects rely on close interaction with experimental data, and I actively seek collaborations with groups doing electrophysiology, calcium imaging, or optogenetics. Please get in touch if you are interested in working together.
 
 ## Neuronal and Network Mechanisms of Auditory Working Memory
 Computational and experimental studies indicate that auditory working memory lies in the coordination of cortical network dynamics and single-cell physiological properties. However, how these mechanisms for memory interact during the encoding, maintaining, and retrieving of cued memories remains largely unknown.

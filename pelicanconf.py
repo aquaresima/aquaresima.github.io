@@ -69,7 +69,7 @@ CC_LICENSE = {
 
 
 
-STATIC_PATHS = ["images", "extra/ads.txt", "extra/CNAME"]
+STATIC_PATHS = ["images", "files", "PopulationDynamics", "extra/ads.txt", "extra/CNAME"]
 
 EXTRA_PATH_METADATA = {
     "extra/ads.txt": {"path": "ads.txt"},
@@ -81,7 +81,8 @@ EXTRA_PATH_METADATA = {
 SITEURL = ''
 
 #! https://stackoverflow.com/questions/55363180/how-do-i-choose-a-category-page-to-be-the-home-page-for-a-pelican-site
-ARTICLE_EXCLUDES = ['templates', 'articles']
+ARTICLE_EXCLUDES = ['templates', 'articles', 'PopulationDynamics']
+PAGE_EXCLUDES = ['PopulationDynamics']
 TEMPLATE_PAGES = {
     # 'templates/homepage.html': 'pages/blog.html',
     # 'templates/homepage.html': 'index.html',
