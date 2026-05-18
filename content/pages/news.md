@@ -1,6 +1,10 @@
 Title: News
 page_order: 5
 
+- __18/03/2026__: Invited seminar at the [Computational Brain & Behavior Coimbra](https://www.comp-neuro.org/) (Renato Duarte's lab) on data-driven optimization of biophysical models.
+
+- __25/01/2026__: Invited seminar at [Julijana Gjorgjieva's lab](https://www.professoren.tum.de/en/gjorgjieva-julijana/) (TUM) on data-driven optimization of biophysical models.
+
 - __2025__: New paper published in _The Journal of Neuroscience_: Nonlinear dendritic integration supports Up-Down states in single neurons. [10.1523/JNEUROSCI.1701-24.2025](https://www.jneurosci.org/content/45/26/e1701242025)
 
 - __10/11/2024__: My application for the Pasteur-Roux-Cantarini fellowship has been accepted. I will be investigating Auditory Working Memory in mice in Bathellier's lab for the upcoming two years!   
