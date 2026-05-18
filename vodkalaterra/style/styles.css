@@ -1,0 +1,45 @@
+
+@font-face {
+  font-family: 'Lucida';
+  src: url("../fonts/Lucida\ Bright.ttf") format("truetype");
+  /* src: url("../fonts/SunnyspellsRegular-MV9ze.otf") format("opentype"); */
+  /* src: url("../fonts/URWBookman-Light.otf") format("opentype"); */
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  /* background: darkgreen; */
+  background-size: cover;
+
+  /* overflow: hidden; */
+}
+
+.title{
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  padding-bottom: 4px;
+}
+
+
+.page{
+  display: flex;
+  justify-content: space-between;
+  font-size: 9;
+}
+
+.blocks{
+	padding:20px;
+}
+
+#sketch_box{
+  /* padding:20px; */
+  height: 100px;
+  width: 100px;
+  color:black;
+}

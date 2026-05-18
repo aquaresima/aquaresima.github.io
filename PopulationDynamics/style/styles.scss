@@ -1,0 +1,47 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font-smooth: never;
+    -moz-font-smooth: never;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'URWBookman';
+    src:    url('fonts/URWBookman-Light.otf') format('opentype');
+}
+
+
+
+html{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+    overflow: hidden;
+}
+
+.button{
+    color:white;
+}
+
+@media screen and (min-width: 1000px) {
+
+    
+}
+
+
+
+@media screen and (max-width: 999px) {
+ 
+
+}
