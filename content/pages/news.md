@@ -1,6 +1,8 @@
 Title: News
 page_order: 5
 
+- __07/2026__: I have been awarded the affectation for a Maître de conférences (Associate Professor) position at Sorbonne Université. I will join [Alberto Bacci's lab](https://baccilab.org/) in September 2026!
+
 - __18/03/2026__: Invited seminar at the [Computational Brain & Behavior Coimbra](https://www.comp-neuro.org/) (Renato Duarte's lab) on data-driven optimization of biophysical models.
 
 - __25/01/2026__: Invited seminar at [Julijana Gjorgjieva's lab](https://www.professoren.tum.de/en/gjorgjieva-julijana/) (TUM) on data-driven optimization of biophysical models.

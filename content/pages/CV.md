@@ -3,13 +3,17 @@ page_order: 2
 
 ## Active 
 
-- _Institut de l’Audition, Paris, France_ <br> __Postdoc researcher [Auditory System Dynamics and Multisensorial Processing Lab](https://sites.google.com/bathellier-lab.org/bathellier-lab/home)__ <br> We examine the neuronal mechanisms of auditory short-term memories with simulations of biophysical models and data analysis of brain activity.
+- _Sorbonne Université, Paris, France_ <br> __Maître de conférences (Associate Professor)__ <br> P.I. in [Alberto Bacci's lab](https://baccilab.org/), joining September 2026.
 
 - _Nijmegen, the Netherlands_ <br> __Chair of [Bioma Lab](https://www.biomalab.nl)__ <br> Association for development of new materials and artistic imagineries
 
 - _Rome, Italy_ <br> __Member of [The Science Zone](https://thesciencezoneblog.wordpress.com)__ <br> Association for scientific education and outreach
 
 ## Research and Teaching Experience
+
+_Institut de l'Audition, Paris, France_ <br>
+__Postdoc researcher, [Auditory System Dynamics and Multisensorial Processing Lab](https://sites.google.com/bathellier-lab.org/bathellier-lab/home)__ _2024 - 2026_ <br>
+We examine the neuronal mechanisms of auditory short-term memories with simulations of biophysical models and data analysis of brain activity.
 
 _Max Planck Insititute for Psycholinguistics, Radboud University, Nijmegen_ <br>
 __Ph.D. in Neurobiology of Language__ _2019 - 2024_ <br>
